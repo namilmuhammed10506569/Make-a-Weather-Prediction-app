@@ -5,7 +5,7 @@ Building a simple weather prediction model for telling us whether the temperatur
 
 1)Collecting and format data.
 
-  -download historic data for us to use,format the data for feed into the model, build train and test sets and assign labels.
+  - download historic data for us to use,format the data for feed into the model, build train and test sets and assign labels.
   
 2)Building model in python.
 
